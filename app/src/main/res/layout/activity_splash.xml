@@ -24,7 +24,7 @@
         android:shadowDx="1"
         android:shadowDy="1"
         android:shadowRadius="2"
-        android:text="版本号：1.0"
+        android:text="版本号"
         android:textSize="16sp"/>
 
 </RelativeLayout>
